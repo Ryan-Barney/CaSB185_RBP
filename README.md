@@ -1,5 +1,7 @@
 # CaSB185_RBP
 CaSB185 - Research extension project
+
+
 A myriad of cellular mechanisms are responsible for the proper post-transcriptional processing of RNA. 
 The ADAR1 family of proteins create a large variety of transcripts by mediating RNA editing, the process of modifying RNA transcripts by inserting, deleting, and/or substituting RNA nucleotides. 
 ADAR1 specifically facilitates adenine-to-inosine (A-to-I) editing, one of the most common forms of RNA editing. 
